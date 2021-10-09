@@ -41,8 +41,8 @@ nav .mainMenu li a {
   position: relative;
   display: inline-block;
   padding: 35px;
-  margin-top: -1.5vw;
-  /* margin-top: 2.5vw; */
+ 
+   margin-top: 2.5vw; 
 
   text-decoration: none;
   text-transform: uppercase;
