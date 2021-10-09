@@ -131,7 +131,7 @@ nav .logo img{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #fbad18;
+    background: white;
     transition: top 1s ease;
     display: none;
     font-weight: bold;
