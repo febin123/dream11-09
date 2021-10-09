@@ -511,7 +511,7 @@ right: 5px;
 @media screen and (max-width: 620px) {
   #review{
     margin-top: -20vw;
-    min-height: 50vh;
+    min-height: 55vh;
   }
   .carousel-cell {
   width: 90vw;
