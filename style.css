@@ -619,8 +619,8 @@ right: 5px;
 }
 @media screen and (max-width: 620px) {
 
-  #faqs{
-    padding-top: 4vw;
+   .play-heading{
+    padding-top: 3vw;
   }
   .accordion-item{
     width: 80vw;
